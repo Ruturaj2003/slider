@@ -1,7 +1,9 @@
+import Carol from './Carol';
+
 const App = () => {
   return (
     <main>
-      <h2>Slider Starter</h2>
+      <Carol />
     </main>
   );
 };
