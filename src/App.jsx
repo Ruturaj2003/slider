@@ -1,9 +1,9 @@
-import Carol from './Carol';
+import Carousel from './Carousel';
 
 const App = () => {
   return (
     <main>
-      <Carol />
+      <Carousel />
     </main>
   );
 };
